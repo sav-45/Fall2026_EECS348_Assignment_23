@@ -1,3 +1,17 @@
+/*
+EECS 348 Assignment 3
+Description of the program: given commands, category of email sender, and a date, and organize them into the highest priority emails
+Inputs: File
+Output: 2 emails that are at the highest priority
+All collaborators: Mikayla Pelletier
+Other sources for the code: ChatGPT, Gemini
+Author: Savena Lin
+Creation date: October 1st 2026
+Revision date: October 1st 2026
+Revisions: made the classes private, no longer allow incorrect dates and date formats, getMax() is now a constant reference
+*/
+
+
 #include <iostream>
 #include <string>
 #include <sstream>
